@@ -1,0 +1,12 @@
+[
+  {
+    "id": "PROD-001",
+    "nombre": "Laptop de prueba",
+    "stock": 10
+  },
+  {
+    "id": "PROD-002",
+    "nombre": "Teclado mecánico",
+    "stock": 25
+  }
+]
